@@ -8,7 +8,9 @@ ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
 ]
-
+[taxonomies]
+	tag = tags
+	category = categories
 [markup]
     [markup.tableOfContents]
         endLevel = 3
